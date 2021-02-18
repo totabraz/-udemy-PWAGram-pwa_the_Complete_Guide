@@ -39,7 +39,7 @@
     }
   ],
   "start_url": "/index.html",
-  "scope": ".",
+  "scope": "/-udemy-PWAGram-pwa_the_Complete_Guide",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#fff",
